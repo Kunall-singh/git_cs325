@@ -1,5 +1,5 @@
 import time
-print("before change")
+print("making changes from local machine")
 while True:
     # time watch in 24 hours format
     current_time = time.strftime('%H:%M:%S')
